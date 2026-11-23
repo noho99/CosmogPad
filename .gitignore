@@ -7,3 +7,4 @@ _autosave-*
 fp-info-cache
 *.log
 "@ | Out-File -Encoding utf8 .gitignore
+B-TKL_v1.*
