@@ -1,0 +1,9 @@
+@"
+*-backups/
+_autosave-*
+*.lck
+*.bak
+*.kicad_prl
+fp-info-cache
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
