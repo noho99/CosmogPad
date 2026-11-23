@@ -20727,17 +20727,6 @@
 			)
 		)
 	)
-	(gr_circle
-		(center 222.377 67.103)
-		(end 225.044 67.818)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Cu")
-		(uuid "9355909d-9417-4d5c-bc6b-bb459a8de362")
-	)
 	(gr_arc
 		(start 250.11 185.119)
 		(mid 248.645534 188.654534)
