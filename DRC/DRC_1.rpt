@@ -1,0 +1,23 @@
+** Drc report for Numpad_v1_nicenano.kicad_pcb **
+** Created on 2026-11-21T22:55:33+0100 **
+
+** Found 4 DRC violations **
+[lib_footprint_issues]: The footprint library 'ScottoKeebs_Components' was not found at '${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_Components.pretty'.
+    Local override; warning
+    @(60.3760 mm, 11.0280 mm): Footprint J2
+[lib_footprint_issues]: The footprint library 'ScottoKeebs_Components' was not found at '${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_Components.pretty'.
+    Local override; warning
+    @(27.8130 mm, 34.2900 mm): Footprint SW1
+[lib_footprint_issues]: The footprint library 'ScottoKeebs_MCU' was not found at '${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_MCU.pretty'.
+    Local override; warning
+    @(43.2940 mm, 16.2560 mm): Footprint U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 1 spokes connected to isolated island)
+    Local override; error
+    @(6.3500 mm, -6.3500 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+    @(38.1000 mm, 45.6000 mm): PTH pad C [GND] of SW2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
