@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D2, D3, D4, D5, D6, D7, D8, D9",D_SOD-123,17,Diode,
+J1,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,Conn_01x02_Socket,
+J2,OLED_128x32,1,OLED_128x32,
+"S1, S10, S11, S12, S13, S16, S2, S3, S4, S5, S6, S8, S9",SW_Hotswap_Kailh_MX_Plated_1.00u,13,Keyswitch,
+"S14, S15, S7",SW_Hotswap_Kailh_MX_Plated_2.00u,3,Keyswitch,
+"ST1, ST2, ST3",Stabilizer_Cherry_MX_2.00u,3,MX_stab_2,
+SW1,Button_TL3342,1,SW_DPST_x2,
+SW2,ROT_Alps_EC11E-Switch,1,RotaryEncoder_Switch,
+SW3,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,1,SW_Wuerth_450301014042,
+U1,Nice_Nano_V2,1,Nice_Nano_V2,
